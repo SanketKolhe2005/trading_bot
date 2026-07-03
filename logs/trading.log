@@ -1,0 +1,8 @@
+2026-07-03 22:15:41 INFO Order Request:
+Symbol=BTCUSDT
+Side=BUY
+Type=MARKET
+Quantity=0.001
+
+2026-07-03 22:15:42 ERROR HTTP 401 Unauthorized
+APIError(code=-2015): Invalid API-key, IP, or permissions for action
